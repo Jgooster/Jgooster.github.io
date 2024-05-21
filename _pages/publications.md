@@ -14,4 +14,4 @@ profiles:
     content: about_thereoncewasadragon.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Availible for sale at [Amazon]!(https://www.amazon.ca/There-Once-Was-Dragon-Again-st/dp/B0D2SF5VKS/)
+      <p>Availible for sale at [Amazon](https://www.amazon.ca/There-Once-Was-Dragon-Again-st/dp/B0D2SF5VKS/)!
