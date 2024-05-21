@@ -15,3 +15,4 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Availible for sale at <a href="https://www.amazon.ca/There-Once-Was-Dragon-Again-st/dp/B0D2SF5VKS/">Amazon</a>!
+---
